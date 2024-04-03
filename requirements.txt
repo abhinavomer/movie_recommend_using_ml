@@ -1,0 +1,6 @@
+pip>=24.0
+Requests==2.31.0
+streamlit==1.32.2
+pickle5
+numpy
+pandas
